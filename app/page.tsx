@@ -12,6 +12,8 @@ const PRODUCTS = [
 const EXAMPLES = [
   { q: "Mennyi a minimális önerő első lakás vásárlásakor?", p: "lakashitel" },
   { q: "Mennyibe kerül az előtörlesztés?", p: "szemelyi_kolcson" },
+  { q: "Mennyi a személyi kölcsön THM-je?", p: "szemelyi_kolcson" },
+  { q: "Mit tegyek, ha elveszett a bankkártyám?", p: "bankszamla" },
   { q: "Mennyi a lakáshitel THM-je?", p: "lakashitel" },
 ];
 

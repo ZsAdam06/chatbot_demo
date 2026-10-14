@@ -10,12 +10,32 @@
     "expectedSource": "lakashitel-2026.md"
   },
   {
+    "question": "Mennyi az értékbecslés díja lakáshitelnél?",
+    "product": "lakashitel",
+    "expectedSource": "lakashitel-2026.md"
+  },
+  {
     "question": "Mennyibe kerül az előtörlesztés személyi kölcsönnél?",
     "product": "szemelyi_kolcson",
     "expectedSource": "szemelyi-kolcson.md"
   },
   {
+    "question": "Mennyi a személyi kölcsön THM-je?",
+    "product": "szemelyi_kolcson",
+    "expectedSource": "szemelyi-kolcson.md"
+  },
+  {
     "question": "Hogyan lehet elkerülni a számlavezetési díjat?",
+    "product": null,
+    "expectedSource": "bankszamla.md"
+  },
+  {
+    "question": "Mennyibe kerül a készpénzfelvétel ATM-ből?",
+    "product": "bankszamla",
+    "expectedSource": "bankszamla.md"
+  },
+  {
+    "question": "Mit tegyek, ha elveszett a bankkártyám?",
     "product": null,
     "expectedSource": "bankszamla.md"
   },
@@ -26,6 +46,11 @@
   },
   {
     "question": "Lehet-e bankszámlát nyitni kiskorúnak?",
+    "product": "bankszamla",
+    "expectedSource": null
+  },
+  {
+    "question": "Van-e a bankszámlához cashback program?",
     "product": "bankszamla",
     "expectedSource": null
   }
