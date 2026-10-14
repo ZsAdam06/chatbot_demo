@@ -21,7 +21,7 @@ A futamidő vége nem lehet később, mint amikor az adós betölti a 75. élet�
 ## Igényelhető összeg
 A lakáshitel összege 3 millió és 80 millió forint között lehet.
 
-A hitelösszeg nem haladhatja meg a fedezetül szolgáló ingatlan forgalmi értékének 80%-át.
+A hitelösszeg legfeljebb a fedezetül szolgáló ingatlan forgalmi értékének 90%-a lehet, ha az ügyfél az első lakását vásárolja. Minden más esetben legfeljebb 80%.
 
 ## Jövedelmi feltételek
 Az igénylőnek legalább 6 hónapos folyamatos munkaviszonnyal kell rendelkeznie, és a nettó havi jövedelme legalább 250 ezer forint.

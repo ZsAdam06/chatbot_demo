@@ -30,6 +30,11 @@
     "expectedSource": "bankszamla.md"
   },
   {
+    "question": "Mennyi a Prémium számlacsomag havi díja, és hogyan engedhető el?",
+    "product": "bankszamla",
+    "expectedSource": "bankszamla.md"
+  },
+  {
     "question": "Mennyibe kerül a készpénzfelvétel ATM-ből?",
     "product": "bankszamla",
     "expectedSource": "bankszamla.md"

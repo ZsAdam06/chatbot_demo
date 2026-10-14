@@ -18,12 +18,12 @@ validTo: 9999-12-31
 Szabad felhasználású kölcsön: a felhasználás célját nem kell igazolni, és nem kell hozzá ingatlanfedezet vagy kezes.
 
 ## Kamat és THM
-A kamat a teljes futamidő alatt fix. A THM 8,9% és 17,9% között alakul, a hitelösszegtől és a futamidőtől függően.
+A kamat a teljes futamidő alatt fix. A THM kamatkedvezmény nélkül 8,9% és 17,9% között alakul, a hitelösszegtől és a futamidőtől függően. A THM az opcionális hitelfedezeti biztosítás díját nem tartalmazza.
 
-Reprezentatív példa: 3 millió forint 60 hónapra, 12,4% THM mellett, a havi törlesztőrészlet 66 ezer forint.
+Reprezentatív példa kamatkedvezmény nélkül: 3 millió forint 60 hónapra, 12,4% THM mellett, a havi törlesztőrészlet 66 ezer forint.
 
 ## Kamatkedvezmény
-Ha az ügyfél havi nettó jövedelme a banknál vezetett bankszámlára érkezik, a kamat 1 százalékponttal alacsonyabb.
+Ha az ügyfél havi nettó jövedelme a banknál vezetett bankszámlára érkezik, a személyi kölcsön kamata 1 százalékponttal alacsonyabb, így a THM is kedvezőbb a kedvezmény nélküli értéknél.
 
 ## Jövedelmi feltételek
 Az igénylőnek legalább 3 hónapos munkaviszonnyal és legalább 200 ezer forint nettó havi jövedelemmel kell rendelkeznie.
@@ -43,4 +43,4 @@ Az előtörlesztés díja az előtörlesztett összeg 1%-a, ha a hátralévő fu
 Késedelmes fizetés esetén a bank késedelmi kamatot számít fel. Minden fizetési felszólítás díja 1500 Ft.
 
 ## Hitelfedezeti biztosítás
-A kölcsönhöz opcionálisan hitelfedezeti biztosítás köthető, amely haláleset, rokkantság vagy munkanélküliség esetén átvállalja a törlesztőrészletet. Díja a havi törlesztőrészlet 4%-a.
+A kölcsönhöz opcionálisan hitelfedezeti biztosítás köthető, amely haláleset, rokkantság vagy munkanélküliség esetén átvállalja a törlesztőrészletet. Díja a havi törlesztőrészlet 4%-a, és nem része a THM-nek.
