@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Mennyi a minimális önerő első lakás vásárlásakor?",
+    "product": "lakashitel",
+    "expectedSource": "lakashitel-2026.md"
+  },
+  {
+    "question": "Maximum hány évre vehető fel lakáshitel?",
+    "product": "lakashitel",
+    "expectedSource": "lakashitel-2026.md"
+  },
+  {
+    "question": "Mennyibe kerül az előtörlesztés személyi kölcsönnél?",
+    "product": "szemelyi_kolcson",
+    "expectedSource": "szemelyi-kolcson.md"
+  },
+  {
+    "question": "Hogyan lehet elkerülni a számlavezetési díjat?",
+    "product": null,
+    "expectedSource": "bankszamla.md"
+  },
+  {
+    "question": "Mennyi a lakáshitel THM-je?",
+    "product": "lakashitel",
+    "expectedSource": null
+  },
+  {
+    "question": "Lehet-e bankszámlát nyitni kiskorúnak?",
+    "product": "bankszamla",
+    "expectedSource": null
+  }
+]
